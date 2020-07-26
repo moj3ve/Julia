@@ -19,3 +19,5 @@ How to import Unity Project
 5차시 - 타일맵으로 플랫폼 만들기
 <br>
 6차시 - 몬스터 AI 구현
+<br>
+7차시 - 플레이어 피격 이벤트 구현
